@@ -1,0 +1,2 @@
+# reverse-factorization
+Hackerrank challenge
